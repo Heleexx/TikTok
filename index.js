@@ -1,1 +1,1 @@
-module.exports = require('./CaptchaSolver')
+module.exports = require('./CaptchaSolver.js')
